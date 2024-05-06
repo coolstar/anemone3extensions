@@ -1,0 +1,1 @@
+../../anemone3/core/ANEMSettingsManager.h

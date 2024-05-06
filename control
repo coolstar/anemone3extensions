@@ -1,0 +1,9 @@
+Package: com.anemonetheming.anemone3-extensions
+Name: Anemone3-Extensions
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: CoolStar
+Author: CoolStar
+Section: Tweaks
